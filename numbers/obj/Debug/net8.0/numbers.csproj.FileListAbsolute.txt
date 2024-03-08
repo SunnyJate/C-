@@ -1,0 +1,15 @@
+D:\C#\C#\code\numbers\bin\Debug\net8.0\numbers.exe
+D:\C#\C#\code\numbers\bin\Debug\net8.0\numbers.deps.json
+D:\C#\C#\code\numbers\bin\Debug\net8.0\numbers.runtimeconfig.json
+D:\C#\C#\code\numbers\bin\Debug\net8.0\numbers.dll
+D:\C#\C#\code\numbers\bin\Debug\net8.0\numbers.pdb
+D:\C#\C#\code\numbers\obj\Debug\net8.0\numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#\code\numbers\obj\Debug\net8.0\numbers.AssemblyInfoInputs.cache
+D:\C#\C#\code\numbers\obj\Debug\net8.0\numbers.AssemblyInfo.cs
+D:\C#\C#\code\numbers\obj\Debug\net8.0\numbers.csproj.CoreCompileInputs.cache
+D:\C#\C#\code\numbers\obj\Debug\net8.0\numbers.sourcelink.json
+D:\C#\C#\code\numbers\obj\Debug\net8.0\numbers.dll
+D:\C#\C#\code\numbers\obj\Debug\net8.0\refint\numbers.dll
+D:\C#\C#\code\numbers\obj\Debug\net8.0\numbers.pdb
+D:\C#\C#\code\numbers\obj\Debug\net8.0\numbers.genruntimeconfig.cache
+D:\C#\C#\code\numbers\obj\Debug\net8.0\ref\numbers.dll
