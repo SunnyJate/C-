@@ -1,0 +1,15 @@
+D:\C#\C#\C-sharp\list-collection\bin\Debug\net8.0\list-collection.exe
+D:\C#\C#\C-sharp\list-collection\bin\Debug\net8.0\list-collection.deps.json
+D:\C#\C#\C-sharp\list-collection\bin\Debug\net8.0\list-collection.runtimeconfig.json
+D:\C#\C#\C-sharp\list-collection\bin\Debug\net8.0\list-collection.dll
+D:\C#\C#\C-sharp\list-collection\bin\Debug\net8.0\list-collection.pdb
+D:\C#\C#\C-sharp\list-collection\obj\Debug\net8.0\list-collection.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#\C-sharp\list-collection\obj\Debug\net8.0\list-collection.AssemblyInfoInputs.cache
+D:\C#\C#\C-sharp\list-collection\obj\Debug\net8.0\list-collection.AssemblyInfo.cs
+D:\C#\C#\C-sharp\list-collection\obj\Debug\net8.0\list-collection.csproj.CoreCompileInputs.cache
+D:\C#\C#\C-sharp\list-collection\obj\Debug\net8.0\list-collection.sourcelink.json
+D:\C#\C#\C-sharp\list-collection\obj\Debug\net8.0\list-collection.dll
+D:\C#\C#\C-sharp\list-collection\obj\Debug\net8.0\refint\list-collection.dll
+D:\C#\C#\C-sharp\list-collection\obj\Debug\net8.0\list-collection.pdb
+D:\C#\C#\C-sharp\list-collection\obj\Debug\net8.0\list-collection.genruntimeconfig.cache
+D:\C#\C#\C-sharp\list-collection\obj\Debug\net8.0\ref\list-collection.dll

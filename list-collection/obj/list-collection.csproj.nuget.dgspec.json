@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\C#\\C-sharp\\numbers\\numbers.csproj": {}
+    "d:\\C#\\C#\\C-sharp\\list-collection\\list-collection.csproj": {}
   },
   "projects": {
-    "D:\\C#\\C#\\C-sharp\\numbers\\numbers.csproj": {
+    "d:\\C#\\C#\\C-sharp\\list-collection\\list-collection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\C#\\C-sharp\\numbers\\numbers.csproj",
-        "projectName": "numbers",
-        "projectPath": "D:\\C#\\C#\\C-sharp\\numbers\\numbers.csproj",
+        "projectUniqueName": "d:\\C#\\C#\\C-sharp\\list-collection\\list-collection.csproj",
+        "projectName": "list-collection",
+        "projectPath": "d:\\C#\\C#\\C-sharp\\list-collection\\list-collection.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\C#\\C-sharp\\numbers\\obj\\",
+        "outputPath": "d:\\C#\\C#\\C-sharp\\list-collection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

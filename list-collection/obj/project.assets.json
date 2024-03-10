@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\C#\\C-sharp\\numbers\\numbers.csproj",
-      "projectName": "numbers",
-      "projectPath": "D:\\C#\\C#\\C-sharp\\numbers\\numbers.csproj",
+      "projectUniqueName": "D:\\C#\\C#\\C-sharp\\list-collection\\list-collection.csproj",
+      "projectName": "list-collection",
+      "projectPath": "D:\\C#\\C#\\C-sharp\\list-collection\\list-collection.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\C#\\C-sharp\\numbers\\obj\\",
+      "outputPath": "D:\\C#\\C#\\C-sharp\\list-collection\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
